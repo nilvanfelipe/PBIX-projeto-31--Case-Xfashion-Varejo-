@@ -1,0 +1,12 @@
+# Arquivos temporários locais
+.codex-analysis/
+~$*
+*.tmp
+*.temp
+
+# Arquivos de recuperação e cache do Power BI
+*.pbix.autosave
+*.pbit.autosave
+
+# Material de solução e assets fornecidos pelo curso (não redistribuídos)
+Solução/
