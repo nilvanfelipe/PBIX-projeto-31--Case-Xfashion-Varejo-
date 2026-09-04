@@ -104,8 +104,7 @@ As seis tabelas exibidas no diagrama do PBIX autoral são `fVendas`, `dimCliente
 │   ├── Bases de Dados/               # dados e scripts fornecidos no desafio
 │   └── Metodologia ESI/              # referência metodológica
 ├── docs/
-│   ├── RELATORIO-MEDIDAS-DAX.md      # inventário e auditoria das medidas do modelo
-│   └── PUBLICACAO-LINKEDIN.md        # texto e checklist para divulgação
+│   └── RELATORIO-MEDIDAS-DAX.md      # inventário e auditoria das medidas do modelo
 └── README.md
 ```
 
@@ -116,10 +115,6 @@ As seis tabelas exibidas no diagrama do PBIX autoral são `fVendas`, `dimCliente
 3. Abra `PROJETO 31 - Comercial.pbix`.
 4. Caso o Power BI solicite novos caminhos ou credenciais, remapeie as fontes na configuração da fonte de dados.
 5. Atualize as consultas e valide o modelo antes de utilizar qualquer indicador.
-
-## Divulgação
-
-O arquivo [PUBLICACAO-LINKEDIN.md](docs/PUBLICACAO-LINKEDIN.md) contém uma versão de post adequada ao estágio atual e outra versão para ser completada depois da validação final do dashboard.
 
 ## Andamento
 
